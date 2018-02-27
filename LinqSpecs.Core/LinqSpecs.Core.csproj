@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Version>2.0.2</Version>
+    <Company>Nikolay Grudinin</Company>
+    <Copyright>Copyright ©  2010-2017</Copyright>
+    <Description>This is version of LiqSpecs for .net Core</Description>
+    <PackageProjectUrl>https://github.com/koljagrudinin/LinqSpecs</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/koljagrudinin/LinqSpecs.git</RepositoryUrl>
+    <RepositoryType>GitHug</RepositoryType>
+    <PackageTags>LinqSpec</PackageTags>
+    <PackageReleaseNotes>Updated version</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Reflection.Emit" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>LinqSpec.Core</id>
+    <version>1.0.0</version>
+    <title>LinqSpecs Core</title>
+    <authors>nikolay_grudinin</authors>
+    <owners>nikolay_grudinin</owners>
+    <licenseUrl>https://opensource.org/licenses/ms-pl.html</licenseUrl>
+    <projectUrl>https://github.com/navozenko/LinqSpecs</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>linq specification spec expression ddd</tags>
+    <description>This is .net core port of https://github.com/navozenko/LinqSpecs</description>
+    <releaseNotes>This is .net core port of https://github.com/navozenko/LinqSpecs</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+  </metadata>
+</package>

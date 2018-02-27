@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqSpecs.Tests.NetStandard", "LinqSpecs.Tests.Core\LinqSpecs.Tests.NetStandard.csproj", "{AAA5C532-41A1-4DF5-AEA5-ADEA8A472157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqSpecs.NetStandard", "LinqSpecs.NetStandard\LinqSpecs.NetStandard.csproj", "{40C13C24-5600-44F2-B99E-3376C22DAC94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA5C532-41A1-4DF5-AEA5-ADEA8A472157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA5C532-41A1-4DF5-AEA5-ADEA8A472157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA5C532-41A1-4DF5-AEA5-ADEA8A472157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA5C532-41A1-4DF5-AEA5-ADEA8A472157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C13C24-5600-44F2-B99E-3376C22DAC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C13C24-5600-44F2-B99E-3376C22DAC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C13C24-5600-44F2-B99E-3376C22DAC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C13C24-5600-44F2-B99E-3376C22DAC94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DAA21F3-F39A-4429-A2AC-7AC0408186DE}
+	EndGlobalSection
+EndGlobal
